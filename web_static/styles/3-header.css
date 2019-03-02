@@ -1,8 +1,9 @@
 header {
     border-bottom: solid 1px #CCCCCC;
     background-image: url('../images/logo.png');
-    color: FFFFFF;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
     height: 70px;
     width: 100%;
-    align-item: left;
-}
+    align-items:left;
+  }
