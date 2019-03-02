@@ -1,0 +1,23 @@
+.sites{
+  align-items: left;
+  font-size: 30px;
+}
+.places {
+  align-content: center;
+}
+.place-box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.site{
+  width: 390px;
+  padding: 20px;
+  margin: 20px;
+  border: solid 1px #FF5A5F;
+  border-radius: 4px;
+  float: left;
+  position: relative;
+  font-size: 30px;
+  text-align: center;
+}
